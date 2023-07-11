@@ -29,8 +29,9 @@
   Contactos:
   <p></p>
   <a href="https://www.linkedin.com/in/fgomees" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:fgomees1993@gmail.com" target="_blank" style="text-decoration:none;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-
+  
   
 
   
