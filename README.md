@@ -25,9 +25,6 @@
         <!---Imagem bootst--->
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <p></p>
-
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fgomees&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
   
   Contactos:
   <p></p>
